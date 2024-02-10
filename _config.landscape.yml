@@ -1,0 +1,49 @@
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+rss: /atom.xml
+banner: images/banner.jpg
+#subtitle: This a subtitle
+
+# Content
+excerpt_link: Read More
+fancybox: true
+recent_posts_limits: 5
+
+# Footer
+#copyright: |-
+
+# Sidebar
+sidebar: right
+widgets:
+  - category
+  - tag
+  - tagcloud
+  - archive
+  - recent_posts
+
+# Widget behavior
+archive_type: 'monthly'
+show_count: true
+
+# Miscellaneous
+#google_analytics:
+favicon: /favicon.png
+#twitter:
+
+links:
+  github: https://github.com/daodao-bot
+
+# valine comment system. https://valine.js.org
+valine:
+  enable: true
+  appId:  eIderMj79C7A78gJWyfQs9KJ-gzGzoHsz
+  appKey:  dVN7WHg0iiXVSyjhhtAOMG9X
+  notify: false
+  verify: false
+  pageSize: 10
+  avatar: ''
+  lang: zh-cn
+  placeholder: Just go go
+  guest_info: nick,mail,link
