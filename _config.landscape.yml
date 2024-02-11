@@ -38,8 +38,8 @@ links:
 # valine comment system. https://valine.js.org
 valine:
   enable: true
-  appId:  eIderMj79C7A78gJWyfQs9KJ-gzGzoHsz
-  appKey:  dVN7WHg0iiXVSyjhhtAOMG9X
+  appId: eIderMj79C7A78gJWyfQs9KJ-gzGzoHsz
+  appKey: dVN7WHg0iiXVSyjhhtAOMG9X
   notify: false
   verify: false
   pageSize: 10
